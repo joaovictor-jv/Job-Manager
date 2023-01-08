@@ -1,0 +1,43 @@
+table, th, td {
+border: 1px solid black;
+}
+
+table {
+border-collapse: collapse;
+}
+
+th, td{
+padding: 10px;
+text-align: center;
+width: 250px;
+}
+
+th{
+font-weight: bold;
+}
+
+tr:hover:nth-child(1n + 2) {
+background-color: #505050;
+color: yellow;
+}
+
+tr:hover a{
+    color:#fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+#btnListar{
+    width: 120px;
+    height: 22px;
+    font-size: bold;
+}
+
+#btnListar:hover{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    border-radius: 5px;
+}

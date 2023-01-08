@@ -1,0 +1,91 @@
+label{
+    background: #505050;
+    color:#fff;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+input{
+    height: 22px;
+}
+
+#fotoAbertura{
+    width:1190px;
+    height: 375px;
+}
+
+#botaoSalvar{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 473px;
+    border-radius: 5px;
+}
+
+#btnSalvarUsu{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 480px;
+    border-radius: 5px;
+}
+
+#btnConsultar{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 455px;
+    border-radius: 5px;
+}
+
+#btnSalvarSaida{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 473px;
+    border-radius: 5px;
+}
+
+#btnPag{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 455px;
+    border-radius: 5px;
+}
+
+#btnExcluir{
+    background: #ff2121;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 475px;
+    border-radius: 5px;
+}
+
+#btnPagamento{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 475px;
+    border-radius: 5px;
+}
+
+#btnSaida{
+    background: #1a73e8;
+    border: 1px solid black;
+    color:#fff;
+    heigth: 22px;
+    width: 475px;
+    border-radius: 5px;
+}
+
+#mensagem{
+    font-weight: bold;
+}

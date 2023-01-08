@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+    
+    header{
+        width: 500px;
+    }
+    
+}
+
+.border-success {
+  border-color: #000000;
+}
+
+div.logo{
+    flex:30%;
+    padding-left: 540px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+
+img{
+    width: 250px;
+    heigth:150px;
+}
