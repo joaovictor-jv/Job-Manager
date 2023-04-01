@@ -14,7 +14,8 @@ listagem de vagas já cadastradas, consultar vagas, excluir vagas, entre outras 
  CSS • 
  Java • 
  JPA • 
- Bootstrap
+ Bootstrap •
+ MySQL
 </p>
 
 <br>
